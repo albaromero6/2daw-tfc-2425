@@ -57,7 +57,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 |Proyecto | Alumno(s)|
 | -----------------------------------------------------------------------------------| ------------------------------|
-| Grupo 1: The Enigma Casino | Alejandro Barrionuevo Rosado<br/> Raquel López Bermúdez <br/> José Molina Meléndez |
+| Grupo 1: [The Enigma Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino) | Alejandro Barrionuevo Rosado<br/> Raquel López Bermúdez <br/> José Molina Meléndez |
 | Grupo 2: PJ Arcade  | Fernando Jafet Sánchez Lagos <br/> Pablo Ruíz Domínguez |
 | Grupo 3: Trello/Notion con WS  |  Adrián Jiménez Santiago<br/> Elías Robles Ruiz |
 | Grupo 4: Spotify  | Miguel Ángel Platero Duque |

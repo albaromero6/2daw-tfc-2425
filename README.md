@@ -40,8 +40,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
 | [Proyecto]()                                                                      |Juan Cid Benítez |
 | [Proyecto]()                                                                      |Sergio Gámez Ortega |
-| [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz
-                                                                                     Ruyi Xia Ye |
+| [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
 | [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |

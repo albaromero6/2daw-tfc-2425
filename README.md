@@ -40,7 +40,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
 | [Proyecto]()                                                                      |Juan Cid Benítez |
 | [Proyecto]()                                                                      |Sergio Gámez Ortega |
-| [Proyecto](https://github.com/envyx10/Pixela.git)                                 |Pablo Gil Díaz |
+| [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz, Ruyi Xia Ye |
 | [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |
@@ -50,7 +50,6 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Daniel de Poorter Vázquez |
 | [Proyecto]()                                                                      |Sergio Ramos Alarcón |
 | [Proyecto]()                                                                      |Alba Romero Almansa |
-| [Proyecto](https://github.com/envyx10/Pixela.git)                                 |Ruyi Xia Ye |
 
 
 ### 2º DAM Tarde

@@ -47,7 +47,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
 | [Proyecto]()                                                                      |Álvaro Leiva García |
 | [Proyecto]()                                                                      |Álvaro López Guerrero |
-| [Proyecto]()                                                                      |Daniel de Poorter Vázquez |
+| [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
 | [Proyecto]()                                                                      |Sergio Ramos Alarcón |
 | [Proyecto]()                                                                      |Alba Romero Almansa |
 

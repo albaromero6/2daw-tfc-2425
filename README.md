@@ -57,7 +57,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 |Proyecto | Alumno(s)|
 | -----------------------------------------------------------------------------------| ------------------------------|
 | Grupo 1: [The Enigma Casino](https://github.com/The-Enigma-Casino/The-Enigma-Casino) | Alejandro Barrionuevo Rosado<br/> Raquel López Bermúdez <br/> José Molina Meléndez |
-| Grupo 2: PJ Arcade  | Fernando Jafet Sánchez Lagos <br/> Pablo Ruíz Domínguez |
+| Grupo 2: [PJ Arcade](https://github.com/Fernandosanchez1609/PJ-Arcade)  | Fernando Jafet Sánchez Lagos <br/> Pablo Ruíz Domínguez |
 | Grupo 3: [Simpled](https://github.com/AdrianJS2009/Simpled) |  Adrián Jiménez Santiago<br/> Elías Robles Ruiz |
 | Grupo 4: Spotify  | Miguel Ángel Platero Duque |
 | Grupo 5: Marketplace (Milanuncios/Wallapop)  | Enrique Capote Molina<br/>Juan Ignacio Ruiz Cosano<br/>Miguel García Alcalá |

@@ -41,7 +41,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Juan Cid Benítez |
 | [Proyecto]()                                                                      |Sergio Gámez Ortega |
 | [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
-| [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
+| [SeatLookFor](https://github.com/toniipower/SeatLookFor)                          |Antonio Jesús Heredia Leiva <br> Francisco Jiménez López|
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |

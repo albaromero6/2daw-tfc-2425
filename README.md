@@ -48,7 +48,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Álvaro Leiva García |
 | [Proyecto]()                                                                      |Álvaro López Guerrero |
 | [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
-| [Proyecto]()                                                                      |Sergio Ramos Alarcón |
+| [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                            |Sergio Ramos Alarcón |
 | [Proyecto]()                                                                      |Alba Romero Almansa |
 
 

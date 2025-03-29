@@ -33,13 +33,12 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Alarcón Fortes Manuel |
 | [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Ávila Rosas Miguel Ángel |
 | [Proyecto]()                                                                      |Barnestein Martos Alejandro |
-| [Proyecto]()                                                                      |Sofía Béjar Rimoldi |
+| [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
 | [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
 | [Proyecto]()                                                                      |Juan Cid Benítez |
-| [Proyecto]()                                                                      |Sergio Gámez Ortega |
 | [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
 | [SeatLookFor](https://github.com/toniipower/SeatLookFor)                          |Antonio Jesús Heredia Leiva <br> Francisco Jiménez López |
 | [Proyecto]()                                                                      |Francisco Jiménez López |

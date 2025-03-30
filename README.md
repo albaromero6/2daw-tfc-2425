@@ -35,7 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Barnestein Martos Alejandro |
 | [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
-| [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
+| [ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
 | [Proyecto]()                                                                      |Juan Cid Benítez |

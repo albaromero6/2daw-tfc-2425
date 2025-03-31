@@ -35,7 +35,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [FoodFlow](https://github.com/Hisui02/FoodFlow)                                                                      |Barnestein Martos Alejandro <br/> Álvaro Leiva García |
 | [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
-| [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
+| [ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
 | [HealthTuring](https://github.com/HealthTuring/HealthTuring)                      |Juan Francisco Chacón Macías <br>Álvaro López Guerrero |
 | [Proyecto]()                                                                      |Juan Cid Benítez |

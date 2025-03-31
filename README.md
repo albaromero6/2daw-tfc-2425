@@ -32,7 +32,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 |-----------------------------------------------------------------------------------| ------------------------------|
 | [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Alarcón Fortes Manuel |
 | [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Ávila Rosas Miguel Ángel |
-| [Proyecto]()                                                                      |Barnestein Martos Alejandro |
+| [FoodFlow](https://github.com/Hisui02/FoodFlow)                                                                      |Barnestein Martos Alejandro <br/> Álvaro Leiva García |
 | [Nidhu](https://github.com/Sunderfal/Nidhu)                                       |Sofía Béjar Rimoldi <br>Sergio Gámez Ortega |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
 | [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
@@ -44,7 +44,6 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
-| [Proyecto]()                                                                      |Álvaro Leiva García |
 | [Proyecto]()                                                                      |Álvaro López Guerrero |
 | [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
 | [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                            |Sergio Ramos Alarcón |

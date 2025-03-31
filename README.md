@@ -44,8 +44,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
 | [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
-| [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                            |Sergio Ramos Alarcón |
-| [Proyecto]()                                                                      |Alba Romero Almansa |
+| [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                       |Sergio Ramos Alarcón |
+| [Van&go](https://github.com/albaromero6/VanGo-TFG)                                |Alba Romero Almansa |
 
 
 ### 2º DAM Tarde

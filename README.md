@@ -38,11 +38,10 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [ChefMate](https://github.com/FranciscoCabelloRueda/ChefMate)                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
 | [HealthTuring](https://github.com/HealthTuring/HealthTuring)                      |Juan Francisco Chacón Macías <br>Álvaro López Guerrero |
-| [Proyecto]()                                                                      |Juan Cid Benítez |
+| [BeautyBook](https://github.com/juancid08/beautyBook)                             |Juan Cid Benítez <br> Samuel Lapeira Pérez |
 | [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
 | [SeatLookFor](https://github.com/toniipower/SeatLookFor)                          |Antonio Jesús Heredia Leiva <br> Francisco Jiménez López |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
-| [Proyecto]()                                                                      |Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
 | [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
 | [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                            |Sergio Ramos Alarcón |

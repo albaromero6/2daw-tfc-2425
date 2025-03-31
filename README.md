@@ -37,14 +37,13 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
 | [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
 | [Proyecto]()                                                                      |Francisco Cedillo Serrato |
-| [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
+| [HealthTuring](https://github.com/HealthTuring/HealthTuring)                      |Juan Francisco Chacón Macías <br>Álvaro López Guerrero |
 | [Proyecto]()                                                                      |Juan Cid Benítez |
 | [Pixela](https://github.com/envyx10/Pixela.git)                                   |Pablo Gil Díaz <br>Ruyi Xia Ye |
 | [SeatLookFor](https://github.com/toniipower/SeatLookFor)                          |Antonio Jesús Heredia Leiva <br> Francisco Jiménez López |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |
 | [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
-| [Proyecto]()                                                                      |Álvaro López Guerrero |
 | [aLibrary](https://github.com/jaimenavasmartin/proyecto-final-ciclo)              |Daniel de Poorter Vázquez <br>Jaime Navas Martín|
 | [Rayito de Sol](https://github.com/Kazuma275/Rayito-de-Sol)                            |Sergio Ramos Alarcón |
 | [Proyecto]()                                                                      |Alba Romero Almansa |
